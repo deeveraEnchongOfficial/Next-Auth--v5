@@ -97,12 +97,3 @@ Feel free to explore each feature and adapt the project to suit your specific ne
 ## Live Demo
 
 The application is deployed on [here](https://db-next-auth-v5.vercel.app/).
-
-## Author
-
-- Diwash Bhattarai
-- diwashb999@gmail.com
-
-## Credits
-
-This project was built by following a tutorial from [Code with Antonio ](https://www.youtube.com/watch?v=1MTyCvS05V4)
